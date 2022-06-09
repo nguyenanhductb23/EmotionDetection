@@ -10,4 +10,4 @@ Link download thư mục *savedmodel: https://drive.google.com/drive/folders/1QJ
 
 Hình minh họa:
 
-![Demo example]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/nguyenanhductb23/EmotionDetection/blob/main/demo.png) "Demo")
+![Demo example](https://github.com/nguyenanhductb23/EmotionDetection/blob/main/demo.png "Demo")
